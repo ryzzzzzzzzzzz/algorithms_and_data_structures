@@ -1,0 +1,9 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  }
+}
